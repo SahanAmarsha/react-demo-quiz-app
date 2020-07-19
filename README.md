@@ -23,7 +23,7 @@ This is a demo application that I have built inorder to understand functionaliti
   <img src = "screenshots/3.JPG" height="350" >
   
 ### Online Tutorial
-[React/Typescript Tutorial - Build a Quiz App by Thomas Weibenfalk](http://https://www.youtube.com/watch?v=F2JCjVSZlG0 "React/Typescript Tutorial - Build a Quiz App by Thomas Weibenfalk")
+[React/Typescript Tutorial - Build a Quiz App by Thomas Weibenfalk](https://youtu.be/F2JCjVSZlG0 "React/Typescript Tutorial - Build a Quiz App by Thomas Weibenfalk")
 
 
     
