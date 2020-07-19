@@ -3,6 +3,9 @@ This is a demo application that I have built inorder to understand functionaliti
 
 [![Generic badge](https://img.shields.io/badge/Typescript-React-<COLOR>.svg)](https://shields.io/)
 
+### Live Preview
+  
+
 ## Things that I have learned,
 - Creating react project with typescript support.
 - How to use ENums.
@@ -15,5 +18,11 @@ This is a demo application that I have built inorder to understand functionaliti
 - Optional chaining in typescript
   
 ## Screenshots
-  <img src = "screenshots/1.JPG" height="400" >
-  <img src = "" height="400" >
+  <img src = "screenshots/1.JPG" height="350" >
+  <img src = "screenshots/2.JPG" height="350" >
+  <img src = "screenshots/3.JPG" height="350" >
+  
+  ### Online Tutorial
+    [![Click](https://www.youtube.com/watch?v=F2JCjVSZlG0)](https://saythanks.io/to/kennethreitz)
+    
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
