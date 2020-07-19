@@ -4,7 +4,7 @@ This is a demo application that I have built inorder to understand functionaliti
 [![Generic badge](https://img.shields.io/badge/Typescript-React-<COLOR>.svg)](https://shields.io/)
 
 ### Live Preview
-  
+  [![https://mydemo-quiz-app.web.app/](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
 ## Things that I have learned,
 - Creating react project with typescript support.
@@ -22,7 +22,9 @@ This is a demo application that I have built inorder to understand functionaliti
   <img src = "screenshots/2.JPG" height="350" >
   <img src = "screenshots/3.JPG" height="350" >
   
-  ### Online Tutorial
-    [![Click](https://www.youtube.com/watch?v=F2JCjVSZlG0)](https://saythanks.io/to/kennethreitz)
+### Online Tutorial
+[React/Typescript Tutorial - Build a Quiz App by Thomas Weibenfalk](http://https://www.youtube.com/watch?v=F2JCjVSZlG0 "React/Typescript Tutorial - Build a Quiz App by Thomas Weibenfalk")
+
+
     
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
