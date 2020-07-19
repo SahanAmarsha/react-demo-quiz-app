@@ -1,7 +1,7 @@
 # Demo Quiz App Using React and Typescript
 This is a demo application that I have built inorder to understand functionalities of react and typescipt.
 
-[![Generic badge](https://img.shields.io/badge/Typescript-React-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Typescript-React-<COLOR>.svg)](https://mydemo-quiz-app.web.app/)
 
 ### Live Preview
   [![https://mydemo-quiz-app.web.app/](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
@@ -13,7 +13,7 @@ This is a demo application that I have built inorder to understand functionaliti
 - Fetching from an end-point and converting it to a json right away.
 - Benefits of using typescript, rather than using javascript.
 - Spread operator in ES6.
-- Converting in to boolean. (using !! method)
+- Converting int to boolean. (using !! method)
 - How to create global styles.
 - Optional chaining in typescript
   
