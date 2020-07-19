@@ -1,6 +1,7 @@
 # Demo Quiz App Using React and Typescript
 This is a demo application that I have built inorder to understand functionalities of react and typescipt.
-[![Generic badge](https://img.shields.io/badge/<Typescript>-<React>-<COLOR>.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/Typescript-React-<COLOR>.svg)](https://shields.io/)
 
 # Things that I have learned,
 - Creating react project with typescript support.
