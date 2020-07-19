@@ -4,7 +4,7 @@ This is a demo application that I have built inorder to understand functionaliti
 [![Generic badge](https://img.shields.io/badge/Typescript-React-<COLOR>.svg)](https://mydemo-quiz-app.web.app/)
 
 ### Live Preview
-  [![https://mydemo-quiz-app.web.app/](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+  [![https://mydemo-quiz-app.web.app/](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](![https://mydemo-quiz-app.web.app/)
 
 ## Things that I have learned,
 - Creating react project with typescript support.
