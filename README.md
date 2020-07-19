@@ -3,7 +3,7 @@ This is a demo application that I have built inorder to understand functionaliti
 
 [![Generic badge](https://img.shields.io/badge/Typescript-React-<COLOR>.svg)](https://shields.io/)
 
-# Things that I have learned,
+## Things that I have learned,
 - Creating react project with typescript support.
 - How to use ENums.
 - Passing props in the typescript way.
@@ -14,6 +14,6 @@ This is a demo application that I have built inorder to understand functionaliti
 - How to create global styles.
 - Optional chaining in typescript
   
-# Screenshots
-  <img src = "" height="400" >
+## Screenshots
+  <img src = "screenshots/1.JPG" height="400" >
   <img src = "" height="400" >
